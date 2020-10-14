@@ -5,6 +5,6 @@
 <li><a href='#'>Understanding transfer learning and  VGG16</a></li>
 <li><a href='#'>Model creating and Evaluation</a></li>
 <li><a href='#'>Prediction</a></li>
-<li><a href='#'>Conclusin</a></li>
+<li><a href='#'>Conclusion</a></li>
 </ul>
 
